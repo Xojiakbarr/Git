@@ -60,7 +60,7 @@ ul{
     display: flex;
     align-items: center;
     text-align: center;
-    flex-grow: ~1;
+    flex-grow: 1;
     color: #fff;
     text-transform: capitalize;
 }
